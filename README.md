@@ -43,3 +43,33 @@
   <p class="text-white bg-secondary">white text on secondary bg</p>
   <p class="text-light bg-danger">white text on secondary bg</p>
 ```
+## buttons
+
+### primary secondary buttons
+```
+  <button class="btn btn-primary">primary button</button> <!-- auto lightens text -->
+  <button class="btn btn-secondary">secondary button</button>
+```
+### link as buttons
+```
+  <a href="#" class="btn btn-info">info anchor tag</a>
+  <a href="#" class="btn btn-success">success anchor tag</a>
+```
+### sizes
+```
+  <button class="btn btn-lg btn-danger">large danger button</button>
+  <button class="btn btn-sm btn-warning">small warning button</button>
+```
+### outline style
+```
+  <button class="btn btn-outline-primary">outlined button</button>
+  <button class="btn btn-outline-secondary btn-lg">large outlined button</button>
+```
+### button group
+```
+  <div class="btn-group">
+      <a href="#" class="btn btn-primary">button 1</a>
+      <a href="#" class="btn btn-warning">button 2</a>
+      <a href="#" class="btn btn-success">button 3</a>
+  </div>
+```
