@@ -1,8 +1,8 @@
 # bootstrap5_tutorial
 
-##Text
+## Text
 
-#display
+# display
 
 ```
   <!-- display headings -->
