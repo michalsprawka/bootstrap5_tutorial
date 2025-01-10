@@ -91,6 +91,7 @@
   <div class="m-3 p-3 border-start border-danger border-5">thicker border</div>
   <div class="m-3 p-3 rounded border border-5">rounded corners</div>
   <div class="m-3 p-3 rounded-pill border border-5">rounded corners</div>
+```
 ### shadow
 ```
   <!-- box shadow -->
@@ -146,7 +147,7 @@
       </div>
     </div>
   </div>
-  ```
+```
 ### column width
 ```
  <div class="container-lg my-5">
@@ -181,7 +182,7 @@ on mobile it will stack !!!
       </div>
     </div>
   </div>
-  ```
+```
 ### justyfying columns
 ```
   <div class="container-lg my-5">
@@ -240,7 +241,7 @@ on mobile it will stack !!!
       </div>
     </div>
   </nav>
-  ```
+```
   ## card
   ```
         <div class="row my-5 g-0 align-items-center justify-content-center">
